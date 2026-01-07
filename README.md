@@ -37,16 +37,16 @@ I am native in English and Japanese.
 
 ### 🚀 Featured Projects
 
-#### [GenkiJACS RAG Chatbot](https://joshuakirby.webcam/genkijacs)
+#### [GenkiJACS RAG Chatbot](https://joshuakirby.dev/genkijacs)
 
 _Production RAG system handling 10k+ messages._
 
 - **Tech:** Next.js, Pinecone, OpenAI, AWS
 - **Role:** Sole Engineer (Intern)
 - **Impact:** Reduced support workload by ~70 hours/week.
-- [View Live](https://genkijacs.com) • [Read Case Study](https://joshuakirby.webcam/genkijacs)
+- [View Live](https://genkijacs.com) • [Read Case Study](https://joshuakirby.dev/genkijacs)
 
-#### [AI Conversational Placement Test](https://joshuakirby.webcam/placement-test)
+#### [AI Conversational Placement Test](https://joshuakirby.dev/placement-test)
 
 _Automated oral assessment tool._
 
@@ -55,4 +55,4 @@ _Automated oral assessment tool._
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/joshua-h-kirby) - [Portfolio](https://joshuakirby.webcam) - [Email](mailto:jojokirby88@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/joshua-h-kirby) - [Portfolio](https://joshuakirby.dev) - [Email](mailto:jojokirby88@gmail.com)

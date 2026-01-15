@@ -55,4 +55,4 @@ _Automated oral assessment tool._
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/joshua-h-kirby) - [Portfolio](https://joshuakirby.dev) - [Email](mailto:jojokirby88@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/joshua-h-kirby) - [Portfolio](https://joshuakirby.dev) - [Email](mailto:joshua@joshuakirby.dev)

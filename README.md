@@ -39,7 +39,7 @@ I am native in English and Japanese.
 
 - [GenkiJACS RAG Chatbot](https://joshuakirby.dev/genkijacs) - Production RAG system handling 10k+ messages and reducing support workload by ~70 hours/week.
 - [AI Conversational Placement Test](https://joshuakirby.dev/placement-test) - Automated oral assessment tool that replaces manual Zoom interviews with an AI agent.
-- [Japanese Detokenization Bench](https://github.com/JoshuaKirby88/japanese-detokenization-bench) - Benchmark study on Japanese detokenization strategies across different tasks and model settings.
+- [Japanese Tokenization Bench](https://github.com/JoshuaKirby88/japanese-tokenization-bench) - Benchmark study on Japanese tokenization strategies across different tasks and model settings.
 - [Small Beats Model](https://github.com/JoshuaKirby88/small-beats-model) - ML project that generates Beat Saber maps from music.
 - [Subliminal VR Tester](https://github.com/JoshuaKirby88/subliminal-vr) - Meta Quest app for testing subliminal perception with configurable stimuli and masking.
 - [PDF Dark Mode](https://pdfdarkmode.click) - PDF viewer that adapts PDF colors to system-theme, with page-range exports and markdown conversion.
